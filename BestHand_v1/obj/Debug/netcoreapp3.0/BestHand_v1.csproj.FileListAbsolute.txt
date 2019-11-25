@@ -1,0 +1,11 @@
+C:\Users\emesh\source\repos\BestHand_v1\BestHand_v1\bin\Debug\netcoreapp3.0\BestHand_v1.exe
+C:\Users\emesh\source\repos\BestHand_v1\BestHand_v1\bin\Debug\netcoreapp3.0\BestHand_v1.deps.json
+C:\Users\emesh\source\repos\BestHand_v1\BestHand_v1\bin\Debug\netcoreapp3.0\BestHand_v1.runtimeconfig.json
+C:\Users\emesh\source\repos\BestHand_v1\BestHand_v1\bin\Debug\netcoreapp3.0\BestHand_v1.runtimeconfig.dev.json
+C:\Users\emesh\source\repos\BestHand_v1\BestHand_v1\bin\Debug\netcoreapp3.0\BestHand_v1.dll
+C:\Users\emesh\source\repos\BestHand_v1\BestHand_v1\bin\Debug\netcoreapp3.0\BestHand_v1.pdb
+C:\Users\emesh\source\repos\BestHand_v1\BestHand_v1\obj\Debug\netcoreapp3.0\BestHand_v1.csprojAssemblyReference.cache
+C:\Users\emesh\source\repos\BestHand_v1\BestHand_v1\obj\Debug\netcoreapp3.0\BestHand_v1.AssemblyInfoInputs.cache
+C:\Users\emesh\source\repos\BestHand_v1\BestHand_v1\obj\Debug\netcoreapp3.0\BestHand_v1.AssemblyInfo.cs
+C:\Users\emesh\source\repos\BestHand_v1\BestHand_v1\obj\Debug\netcoreapp3.0\BestHand_v1.dll
+C:\Users\emesh\source\repos\BestHand_v1\BestHand_v1\obj\Debug\netcoreapp3.0\BestHand_v1.pdb
